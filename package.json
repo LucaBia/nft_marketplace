@@ -1,0 +1,8 @@
+{
+  "name": "nft_marketplace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LucaBia/nft_marketplace.git",
+  "author": "LucaBia <gian.luca.99@hotmail.com>",
+  "license": "MIT"
+}
